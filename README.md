@@ -1,4 +1,4 @@
-# Experiments for Convolution Sparse Coding (CSC) using alphacsc library
+# Experiments for Convolution Sparse Coding (CSC) using alphacsc Library
 
 __This repository aims at replicating the experiments of the paper cited in the [Citation](#citation) section on [sample data](https://mne.tools/dev/generated/mne.datasets.sample.data_path.html) and providing new experiments.__
 
