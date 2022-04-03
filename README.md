@@ -71,4 +71,4 @@ Or in BibTeX format:
 ```
 
 ### Used materials and 3rd party code
-The experiment is based on the [*alphacsc*](https://alphacsc.github.io) library ( Copyright 2017-2018, Mainak Jas.) and the paper "Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals" by Tom Dupré la Tour, Thomas Moreau, Mainak Jas Vayatis, Alexandre Gramfort [[paper]](https://proceedings.neurips.cc/paper/2018/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf)
+The experiments are based on the [*alphacsc*](https://alphacsc.github.io) library ( Copyright 2017-2018, Mainak Jas.) and the paper "Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals" by Tom Dupré la Tour, Thomas Moreau, Mainak Jas Vayatis, Alexandre Gramfort [[paper]](https://proceedings.neurips.cc/paper/2018/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf)
