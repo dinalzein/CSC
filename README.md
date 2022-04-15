@@ -14,7 +14,7 @@ A [report](./report.pdf) has been made to give an overview of the paper cited in
 
 ## Results for CSC solvers
 For all results, smaller is better.
-The results below present the time in sec to reach a precision of 0.01 using the state-of-the-art CSC solvers for univariate signals for different values of the sparsity constraint <img src ="https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\lambda" />.
+The results below present the time in sec to reach a precision of 0.01 using the state-of-the-art CSC solvers for univariate signals for different values of the sparsity constraint \[ https://latex.codecogs.com/svg.image?\bg{white}\lambda\].
 | Algorithm                                 | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=0.3) | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=%201.)  | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=%203.)   | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=10.)
 |---                                        |---    |---    |---    |---
 CBPDN (Garcia-Cardona et al, 2018)          | 20    | 70    | 90    | 110
