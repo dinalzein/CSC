@@ -22,7 +22,7 @@ FISTA (Jas et al, 2017)                     | 13    | 165   | 157   | 148
 LBFGS (Jas et al, 2017)                     | 75    | 142   | 170   | 175
 LGCD  (La Tour et al, 2018)                 | 480   | 320   | 190   | 80
 
-The results below present the time in sec to reach a precision of 0.01 using the state-of-the-art CSC solvers for multivariate signals for different values of the sparsity constraint $\lambda$.
+The results below present the time in sec to reach a precision of 0.01 using the state-of-the-art CSC solvers for multivariate signals for different values of the sparsity constraint ![equation](https://latex.codecogs.com/svg.image?%5Clambda).
 | Algorithm                                 | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=0.3) | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=%201.)  | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=%203.)   | ![equation](https://latex.codecogs.com/svg.image?%5Clambda%20=10.)
 |---                                        |---    |---    |---    |---
 CBPDN (Wohlberg, 2106)                      | 40    | 57    | 61    | 60
