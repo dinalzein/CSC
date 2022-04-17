@@ -10,8 +10,6 @@ Two Jupyter Notebooks are provided to reproduce the results that are presented i
 A [report](./report.pdf) has been made to give an overview of the paper cited in [Citation](#citation) and analyze the results of the experiments.
 
 
-
-
 ## Results for CSC solvers
 For all results, smaller is better.
 The results below present the time in sec to reach a precision of 0.01 using the state-of-the-art CSC solvers for univariate signals for different values of the sparsity constraint ![equation](https://latex.codecogs.com/svg.image?\bg{white}\lambda).
@@ -71,4 +69,4 @@ Or in BibTeX format:
 ```
 
 ### Used materials and 3rd party code
-The experiments are based on the [*alphacsc*](https://alphacsc.github.io) library ( Copyright 2017-2018, Mainak Jas.) and the paper "Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals" by Tom Dupré la Tour, Thomas Moreau, Mainak Jas Vayatis, Alexandre Gramfort [[paper]](https://proceedings.neurips.cc/paper/2018/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf)
+The experiments are based on the [*alphacsc*](https://alphacsc.github.io) library (Copyright 2017-2018, Mainak Jas.) and the paper "Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals" by Tom Dupré la Tour, Thomas Moreau, Mainak Jas Vayatis, Alexandre Gramfort [[paper]](https://proceedings.neurips.cc/paper/2018/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf)
